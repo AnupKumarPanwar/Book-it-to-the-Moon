@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/bg"
+ >
+
+    <ImageView
+        android:id="@+id/compassImageView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/compass"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light"
+        android:src="@drawable/off"
+
+
+        android:layout_marginLeft="64dp"
+        android:layout_marginStart="64dp"
+        android:layout_alignTop="@+id/light_elevation"
+        android:layout_toRightOf="@+id/light_elevation"
+        android:layout_toEndOf="@+id/light_elevation" />
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light_elevation"
+        android:src="@drawable/off"
+        android:layout_marginLeft="66dp"
+        android:layout_marginStart="66dp"
+        android:layout_above="@+id/compassImageView"
+        android:layout_alignLeft="@+id/compassImageView"
+        android:layout_alignStart="@+id/compassImageView"
+        android:layout_marginBottom="23dp" />
+
+
+
+
+    <com.michaldrabik.tapbarmenulib.TapBarMenu
+        android:id="@+id/tapBarMenu"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom"
+        app:tbm_backgroundColor="#003143"
+        app:tbm_menuAnchor="bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="34dp">
+
+        <ImageView
+            android:id="@+id/item1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:src="@drawable/ic_person"
+            tools:visibility="visible"
+            />
+
+        <ImageView
+            android:id="@+id/item2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:src="@drawable/ic_location"
+            />
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+
+        <ImageView
+            android:id="@+id/item3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:src="@drawable/ic_thumb_up"
+            />
+
+        <ImageView
+            android:id="@+id/item4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:src="@drawable/ic_thumb_down"
+            />
+
+    </com.michaldrabik.tapbarmenulib.TapBarMenu>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Vertical"
+        android:id="@+id/textView2"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_alignLeft="@+id/light_elevation"
+        android:layout_alignStart="@+id/light_elevation" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Horizontal"
+        android:id="@+id/textView3"
+        android:layout_marginLeft="56dp"
+        android:layout_marginStart="56dp"
+        android:layout_above="@+id/light"
+        android:layout_toRightOf="@+id/light_elevation"
+        android:layout_toEndOf="@+id/light_elevation" />
+
+</RelativeLayout>

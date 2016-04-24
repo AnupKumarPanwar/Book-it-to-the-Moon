@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003143</color>
+    <color name="bg">#06003143</color>
+    <color name="colorPrimaryDark">#003143</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+
+    <color name="WallsPrimary">#1976d2</color>
+    <color name="WallsPrimaryDark">#145ea8</color>
+    <color name="tabsScrollColor">#0e356f</color>
+
+    <color name="PhoneViewerPrimary">#414141</color>
+    <color name="PhoneViewerPrimaryDark">#282828</color>
+
+    <color name="status_bar_red">#ffbf2e2e</color>
+    <color name="status_bar_orange">#ffd24a19</color>
+    <color name="status_bar_blue">#ff1963be</color>
+    <color name="status_bar_green">#ff367a3a</color>
+    <color name="status_bar_purple">#ff4a2d94</color>
+    <color name="status_bar_dark">#ff141414</color>
+
+    <color name="fastlane_background_red">#D32F2F</color>
+    <color name="fastlane_background_orange">#E64A19</color>
+    <color name="fastlane_background_blue">#1976D2</color>
+    <color name="fastlane_background_green">#388E3C</color>
+    <color name="fastlane_background_purple">#512DA8</color>
+    <color name="fastlane_background_dark">#212121</color>
+
+
+    <color name="detail_background_red">#D32F2F</color>
+    <color name="detail_background_orange">#E64A19</color>
+    <color name="detail_background_blue">#1976D2</color>
+    <color name="detail_background_green">#388E3C</color>
+    <color name="detail_background_purple">#512DA8</color>
+    <color name="detail_background_dark">#212121</color>
+
+
+    <color name="search_opaque_red">#ffff3838</color>
+    <color name="search_opaque_orange">#ffff511a</color>
+    <color name="search_opaque_blue">#ff25bbde</color>
+    <color name="search_opaque_green">#ff55d959</color>
+    <color name="search_opaque_purple">#ff6c41f3</color>
+    <color name="search_opaque_dark">#ff828282</color>
+
+
+    <color name="soft_opaque">#30000000</color>
+    <color name="img_soft_opaque">#30FF0000</color>
+    <color name="img_full_opaque">#00000000</color>
+    <color name="black_opaque">#AA000000</color>
+    <color name="black">#59000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange_transparent">#AAFADCA7</color>
+    <color name="orange">#FADCA7</color>
+    <color name="yellow">#EEFF41</color>
+    <color name="default_background">#3d3d3d</color>
+    <color name="listSelectorColor">#ffcecece</color>
+    <color name="listActivatedColor">#ffdadada</color>
+
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+
+</resources>
