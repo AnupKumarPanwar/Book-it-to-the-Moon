@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  android:background="#a01a20"
+    tools:context="dynamitechetan.tothemoon.OFFLINE">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/offline"
+        android:id="@+id/imageView2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:text="OFFLINE!!"
+        android:textColor="#dadada"
+
+        android:id="@+id/textView4"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#dadada"
+        android:text="Get Online and try again"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

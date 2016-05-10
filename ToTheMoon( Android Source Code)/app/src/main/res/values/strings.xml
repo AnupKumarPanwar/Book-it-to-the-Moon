@@ -1,0 +1,301 @@
+﻿<resources>
+    <string name="app_name">To The Moon</string>
+    <string name="Deg">degree</string>
+
+    <string-array name="navigation_drawer_items">
+        <item>Planets</item>
+        <item>Planets</item>
+        <item>Stars</item>
+        <item>Moons</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- String Arrays -->
+    <string-array name="mars_moons">
+        <item>Phobos</item>
+        <item>Deimos</item>
+    </string-array>
+
+    <string-array name="jupiter_moons">
+        <item>Europa</item>
+        <item>Io</item>
+        <item>Ganymede</item>
+        <item>Calypso</item>
+    </string-array>
+
+    <string-array name="settings">
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="colorEntries">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+    </string-array>
+
+    <string name="new_moon">New moon</string>
+    <string name="first_quarter">First quarter</string>
+    <string name="full_moon">Full moon</string>
+    <string name="third_quarter">Third quarter</string>
+    <string name="waxing_crescent">Waxing crescent</string>
+    <string name="waxing_gibbous">Waxing gibbous</string>
+    <string name="waning_gibbous">Waning gibbous</string>
+    <string name="waning_crescent">Waning crescent</string>
+    <string-array name="colors">
+        <item name="1">Red</item>
+        <item name="2">Orange</item>
+        <item name="3">Blue</item>
+        <item name="4">Green</item>
+        <item name="5">Purple</item>
+        <item name="6">Dark</item>
+    </string-array>
+
+    <string-array name="themeEntries">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item name="1">Light</item>
+        <item name="2">Dark</item>
+        <item name="3">Automatic</item>
+    </string-array>
+
+
+    <string-array name="sortEntries">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+    </string-array>
+
+    <string-array name="sorts">
+        <item name="1">Traditional</item>
+        <item name="2">A - Z</item>
+        <item name="3">Z - A</item>
+        <item name="4">Smallest to Largest</item>
+        <item name="5">Largest to Smallest</item>
+    </string-array>
+
+    <string-array name="donations">
+        <item name="1">$1</item>
+        <item name="2">$5</item>
+        <item name="3">$10</item>
+        <item name="4">$25</item>
+        <item name="5">$50</item>
+    </string-array>
+
+    <string-array name="donationEntries">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+    </string-array>
+
+    <string-array name="objects">
+        <item name="mercury">Mercury</item>
+        <item name="venus">Venus</item>
+        <item name="earth">Earth</item>
+        <item name="mars">Mars</item>
+        <item name="jupiter">Jupiter</item>
+        <item name="saturn">Saturn</item>
+        <item name="neptune">Neptune</item>
+        <item name="uranus">Uranus</item>
+        <item name="sun">The Sun</item>
+        <item name="moon">Our Moon</item>
+        <item name="phobos">Phobos</item>
+        <item name="deimos">Deimos</item>
+        <item name="Europa">Europa</item>
+        <item name="Pluto">Pluto</item>
+    </string-array>
+
+    <!-- Preferences Titles -->
+    <string name="pref_cate_title_1">Design</string>
+    <string name="pref_5">Theme</string>
+
+    <!-- Accessibility Titles -->
+    <string name="sun_image">Picture of Sun</string>
+    <string name="mercury_image">Picture of Mercury</string>
+    <string name="venus_image">Picture of Venus</string>
+    <string name="earth_image">Picture of Earth</string>
+    <string name="mars_image">Picture of Mars</string>
+    <string name="jupiter_image">Picture of Jupiter</string>
+    <string name="saturn_image">Picture of Saturn</string>
+    <string name="uranus_image">Picture of Uranus</string>
+    <string name="neptune_image">Picture of Neptune</string>
+
+    <!-- Moons -->
+    <string name="earth_satellite">Satellite (1)</string>
+    <string name="moon_title">Moon</string>
+    <string name="moon_image">Picture of the Moon</string>
+    <string name="moon_sub_title_1">Data</string>
+    <string name="moon_description">Circumference at Equator: 10,917.0 km\nDiameter: 3,475 km\nMass: 73,476,730,924,573,500 million kg (0.0123 x Earth)\nAverage Distance from Earth: 384,400 km\nLength of Orbit: 27.3 Earth days\nSurface Temperature: -233 to 123 °C</string>
+    <string name="moon_sub_title_2">Facts</string>
+    <string name="moon_description_2">The Moon (or Luna) is the Earth’s only natural satellite and was formed 4.6 billion years ago around some 30–50 million years after the formation of the solar system. The Moon is in synchronous rotation with Earth meaning the same side is always facing the Earth. The first unmanned mission to the Moon was in 1959 by the Soviet Lunar Program with the first manned landing being Apollo 11 in 1969.</string>
+    <string name="moon_button">Satellite (1)</string>
+
+    <!-- Europa -->
+    <string name="jupiter_sat_1">Satellite (4)</string>
+    <string name="europa_title">Europa</string>
+    <string name="europa_image">Picture of Europa</string>
+    <string name="europa_sub_title_1">Data</string>
+    <string name="europa_description">Discovered by: Galileo Galilei, Simon Marius\nDiscovery date: 8 January 1610\nPeriapsis: 664,862 km\nApoapsis: 676,938 km\nMean orbit radius: 670,900 km\nEccentricity: 0.009\nOrbital period: 3.551181 days\nAverage orbital speed: 13.740 km/s\nInclination: 0.470° (to Jupiter\'s equator)</string>
+    <string name="europa_sub_title_2">Facts</string>
+    <string name="europa_description_2">In Greek mythology, Europa was abducted by Zeus, who had taken the form of a spotless white bull to seduce her. She decorated the “bull” with flowers and rode on its back to Crete. Once in Crete, Zeus-who is a counterpart of the Roman god Jupiter-then transformed back to his original form and was seduced by Zeus. Europa as the queen of Crete and bore Zeus many children.\nFor centuries, the four largest moons of Jupiter didn\'t have actual names. Instead, Galileo gave each moon a number, from one through four. Of the four large moons, Europa was believed to be the second closest to Jupiter, which is why Galileo also called it Jupiter II.\n\nThe Galileo mission, launched by NASA in 1989, is responsible for much of the information we have on Jupiter and the bodies surrounding it. It took more than six years for the unmanned Galileo spacecraft to reach its destination. The craft stayed in orbit of Jupiter from December 8, 1995 until Sept. 21, 2003.\n\nA prominent feature of Europa is its high degree of reflectivity. Europa\'s icy crust gives it an albedo-light reflectivity—of 0.64, one of the highest of all of the moons in the entire solar system.\nScientists estimate that Europa’s surface is about 20 million to 180 million years old, which makes it fairly young.\nObserving pictures taken by the Galileo spacecraft, scientists believe Europa is made of silicate rock, and has an iron core and rocky mantle, much like the Earth does. Unlike the interior of Earth, however, the rocky interior of Europa is surrounded by a layer of ice that is approximately 62 miles (or 100 km) thick.</string>
+
+    <!-- Titan -->
+    <string name="titan_description">Discovered by: Christiaan Huygens\nDiscovery date: March 25, 1655\nPeriapsis: 1,186,680 km\nApoapsis: 1,257,060 km\nSemi-major axis: 1,221,870 km\nEccentricity: 0.0288\nOrbital period: 15.945 days\nAverage orbital speed: 5.57 km/s (calculated)\nInclination: 0.34854° (to Saturn\'s equator)</string>
+
+    <!-- Phobos -->
+    <string name="mars_sat_1">Satellite (2)</string>
+    <string name="phobos_title">Phobos</string>
+    <string name="phobos_image">Picture of Phobos</string>
+    <string name="phobos_sub_title_1">Data</string>
+    <string name="phobos_description">Dimensions: 27 × 22 × 18 km\nMean radius: 11.2667 km (1.76941 mEarths)\nMass: 1.0659×1016 kg (17.8477 nEarths)\nMean density: 1.876 g/cm cubed\nEquatorial Surface Gravity: 0.0057 m/s squared (581.4 µg)\nEscape Velocity: 11.39 m/s (41 km/h)\nTemperature ≈ 233 K\nApparent magnitude: 11.3</string>
+    <string name="phobos_sub_title_2">Facts</string>
+    <string name="phobos_description_2">In the early 17th century, German astronomer Johannes Kepler proposed that Mars might host two moons, given that it lay between the Earth and Jupiter, which were known to have one and four satellites. No evidence of such moons could be found. Although most people thought that Mars had no moons, American astronomer Asaph Hall performed a methodical study from the U.S. Naval Observatory in Washington, D.C., searching closer to the planet than previous surveys.\n\nAfter searching without success, a frustrated Hall was about to give up but his wife, Angelina, urged him to continue. The next night, August 12, 1877, he discovered the moon that would later be known as Deimos. Six days later, he found Phobos as well. The two moons lay so close to their primary that they were hidden by the planet\'s glare. Asteroid-sized, they are also two of the smallest moons in the solar system, with the larger Phobos 7.24 times as massive as its companion, Deimos.</string>
+
+
+    <!-- Deimos -->
+    <string name="mars_sat_2">Satellite (2)</string>
+    <string name="deimos_title">Deimos</string>
+    <string name="deimos_image">Picture of Deimos</string>
+    <string name="deimos_sub_title_1">Data</string>
+    <string name="deimos_description">Dimensions: 7.8 × 6.0 × 5.1 km\nMean Radius: 6.2  ±  0.18 km  (0.97316 mEarths)\nMass: 1.4762×1015 kg (24.7179 nEarths)\nMean Density: 1.471±0.166 g/cm cubed\nEquatorial Surface Gravity: 0.003 m/s squared (306 µg)\nEscape Velocity: 5.556 m/s (20 km/h)\nTemperature ≈ 233 K\nApparent Magnitude: 12.45 ± 0.05 </string>
+    <string name="deimos_sub_title_2">Facts</string>
+    <string name="deimos_description_2">On August 12, 1877, the focused search for Martian moons by American astronomer Asaph Hall resulted in the discovery of Deimos. Six days later, he identified the second Martian moon, Phobos.\nThe existence of the moons had been suggested years before, when Johannes Kepler proposed that since Earth hosted one moon and Jupiter four (as only the Galilean moons were known at the time), Mars might have two moons in orbit around it. However, no signs of such moons existed until Hall undertook his careful search.\nUsing a 26-inch refractor at the U.S. Naval Observatory in Washington, D.C., Hall made a methodical study of the region around the red planet. Peering closer to Mars than previous astronomers, he found Deimos circling only 14,576 miles (23,458 kilometers) from the center of the planet, traveling around its equator. Phobos orbited even closer in. Their close proximity and small size had kept them hidden in the glare from the planet.\nLike many objects in the solar system, the Martian moons take their names from Greek mythology. In Homer\'s ancient poem, \"The Iliad,\" Deimos (Flight) and Phobos (Fear) were the twin sons of Mars (Ares to the Greeks), and accompany him into battle.</string>
+
+    <!-- Objects Names and Info -->
+    <string name="sun_title">Sun</string>
+    <string name="sun_sub_title_1">Data</string>
+    <string name="sun_description">Age: 4.6 Billion Years\nType: Yellow Dwarf (G2V)\nDiameter: 1,392,684 km\nCircumference at Equator: 4,370,005.6 km\nMass: 1.9891×10^21 billion kg (333,060 x Earth)\nSurface Temperature: 5500 °C</string>
+    <string name="sun_sub_title_2">Facts</string>
+    <string name="sun_description_2" formatted="false">The sun is the center of our solar system, and the Earth revolves around it at a distance of about 93 million miles, although this distance varies throughout the year because of the Earth’s elliptical orbit around the sun. The distance between the Earth and the Sun is called an Astronomical Unit or AU. It takes a little over eight minutes for light from the sun to reach the Earth. Like the Earth, the sun is also traveling in orbit around the center of the Milky Way. It travels at 220 kilometers a second. \n\nThe sun is a yellow dwarf star with a mass of 1.989 x1030   kilograms, about 330,000 times greater than that of Earth. It is about 70% hydrogen, and the rest of its mass is helium.  \n\nThe circumference of the sun is 1,3902,684 km, and its surface area is 11,990 time that of Earth. One million Earths could fit inside the sun! The sun is the one object that has been observed in nature that is closest to having the shape of perfect sphere. \n\nTemperatures at the core of the sun can reach 15 million degrees Celsius, and the temperature at the surface is about 5500 degrees Celsius. The sun creates energy through nuclear fusion, as hydrogen is converted to helium in its core. The sun controls Earth’s climate and makes life on Earth possible. \n\nBecause the sun has a strong magnetic field, there are magnetic storms in which solar flares are released. We see those flares as sunspots. \n\nThe sun also generates solar wind, a stream of charged particles that travels through the solar system at about 40 kilometers per second. </string>
+
+    <string name="mercury_title">Mercury</string>
+    <string name="mercury_sub_title_1">Data</string>
+    <string name="mercury_description">Mass: 3.30104×10^14 billion kg (0.055 x Earth)\nEquatorial Diameter: 4,879\nPolar Diameter: 4,879\nEquatorial Circumference: 15,329 km\nKnown Satellites: none\nNotable Satellites: none\nOrbit Distance: 57,909,227 km (0.39 AU)\nOrbit Period: 87.97 Earth days\nSurface Temperature: -173 to 427°C\nFirst Record: 14th century BC\nRecorded By: Assyrian astronomers</string>
+    <string name="mercury_sub_title_2">Facts</string>
+    <string name="mercury_description_2" formatted="false">Mercury is the closest planet to the sun. Because of its highly elliptical orbit, its distance from the sun can range from 46 to 70 million kilometers. It is nearly tidally locked, so it rotates three times around its axis in two of its “years” or orbits. A year on Mercury is 88 days long, but one day is the same as 176 Earth days. Because of its speedy orbit, the planet was named after the winged Roman messenger to the gods, Mercury. \n\nMercury is the smallest planet in our solar system. Its diameter is 4,879 kilometers, while Earth’s is 12,742 kilometers. Even though it is small, Mercury’s density (5.4 grams/cubic centimeter) is second only to Earth’s. This is because Mercury is composed of heavy metals and rock. \n\Mercury’s temperatures range from up to 427 degrees Celsius on the side that faces the sun most of the time and -173 degrees Celsius on the alternate side. There is no atmosphere to aid in regulating the temperatures. \n\nMercury’s surface is wrinkled. These wrinkles, called, Lobate Scarps can be as much as a mile high and hundreds of miles long. \n\nTwo spacecraft have visited Mercury: Mariner 10 and Messenger, and they have brought back much information about Mercury.</string>
+
+    <string name="venus_title">Venus</string>
+    <string name="venus_sub_title_1">Data</string>
+    <string name="venus_description">Mass: 4.86732×10^15 billion kg (0.815 x Earth)\nEquatorial Diameter: 12,104 km\nPolar Diameter: 12,104 km\nEquatorial Circumference: 38,025 km\nKnown Satellites: none\nNotable Satellites: none\nOrbit Distance: 108,209,475 km (0.73 AU)\nOrbit Period: 224.70 Earth days\nSurface Temperature: 462 °C\nFirst Record: 17th century BC\nRecorded By: Babylonian astronomers</string>
+    <string name="venus_sub_title_2">Facts</string>
+    <string name="venus_description_2" formatted="false">Venus is the second planet from the sun, and it is often thought of as Earth’s sister planet because the two are so similar in size, density, composition, and gravity. Both have a central core, a molten mantle, and a crust. Venus, however, is not hospitable to life. \n\nVenus is the hottest planet in the solar system even though it is not the closest to the sun. The average surface temperature is 462 degrees Celsius, and there are no seasonal variations because Venus does not tilt on its axis. The temperatures are so high because of the dense atmosphere made up of 96.5% carbon dioxide. Venus also has clouds of sulfuric acid and many volcanos, and it is quite dry. Atmospheric pressure on Venus is 92% greater than on Earth.\n\nVenus is the second brightest object in the night sky. The moon is the brightest. It is named after the goddess of love, maybe because of its brightness. It is also known as the Morning Star and the Evening Star because when its orbit around the Sun overtakes Earth’s orbit, it changes from being visible after sunset to being visible before sunrise. Early civilizations thought Venus was two different bodies. Mayan astronomers made detailed observations of Venus as early as 650 AD. \n\nVenus rotates counter-clockwise (retrograde rotation), and it takes 243 Earth days for it to rotate once on its axis. A day on Venus lasts longer than an Earth year, and its orbit around the sun takes 225 Earth days. Unlike most other planets in our solar system Venus has no natural satellites. \n\nMany spacecraft have visited Venus, but its atmosphere, volcanic activity, and heat make it difficult to study.</string>
+
+    <string name="earth_title">Earth</string>
+    <string name="earth_sub_title_1">Data</string>
+    <string name="earth_description">Mass: 5.972199×10^15 billion kg\nEquatorial Diameter: 12,756 km\nPolar Diameter: 12,714 km\nEquatorial Circumference: 40,030 km\nKnown Satellites: 1\nNotable Satellites: The Moon\nOrbit Distance: 149,598,262 km (1 AU)\nOrbit Period: 365.26 Earth days\nSurface Temperature: -88 to 58°C</string>
+    <string name="earth_sub_title_2">Facts</string>
+    <string name="earth_description_2" formatted="false">Due to the apparent movements of the Sun and the other planets in relationship to the Earth, ancient scientists thought that the Earth was the center of the solor system and that it stayed still as other celestial bodies travelled in circular orbits around it. Finally, the scientist Copernicus postulated that the Sun was at the center of the solar system, and he was eventually proven correct. The Earth is 149,598,262 kilometers from the Sun. \n\n The Earth’s rotation, titled on its axis is gradually slowing, but the deceleration is happening almost imperceptibly, approximately 17 milliseconds per hundred years. At this rate, our days would eventually lengthen to about 25 hours, but it could take as long as140 million years before that happens.\n\nIt is the largest of the terrestrial, or rocky planets, also including Venus, Mars, and Mercury. With a diameter of 13,000 kilometers, it is the fifth largest planet overall. \n\nEarth has a powerful magnetic field, a phenomenon caused by the nickel-iron core of the planet coupled with its rapid rotation. This field protects the Earth from the effects of solar wind.\n\nThe Moon is the only natural satellite of the planet Earth. Based on percentage of size of the body it orbits, our Moon is the largest satellite of any in our solar system. In measurement, however, it is only the fifth largest natural satellite.\n\nEarth is the only planet not named after a god.\n\nOf all the planets in our solar system, the Earth has the greatest density. This varies according to the part of the planet; for example, the metallic core is denser than the crust. The average density of the Earth is approximately 5.52 grams per cubic centimeter.</string>
+
+    <string name="mars_title">Mars</string>
+    <string name="mars_sub_title_1">Data</string>
+    <string name="mars_description">Mass: 6.41693×10^14 billion kg (0.107 x Earth)\nEquatorial Diameter: 6,805\nPolar Diameter: 6,755\nEquatorial Circumference: 21,297 km\nKnown Satellites: 2\nNotable Satellites: Phobos and Deimos\nOrbit Distance: 227,943,824 km (1.38 AU)\nOrbit Period: 686.98 Earth days (1.88 Earth years)\nSurface Temperature: -87 to -5 °C\nFirst Record: 2nd millennium BC\nRecorded By: Egyptian astronomers</string>
+    <string name="mars_sub_title_2">Facts</string>
+    <string name="mars_description_2" formatted="false">Mars, the fourth planet from the Sun, is named after the Roman god of war, and it is often called the “Red Planet” because of its “bloody” color. The bright rust color of Mars is due to iron-rich minerals in its regolith — the loose dust and rock covering its surface. Mars is a terrestrial planet with a thin atmosphere composed primarily of carbon dioxide. \n\nMars and Earth have approximately the same landmass, even though Mars has only has 15% of the Earth’s volume. Its cold, thin atmosphere makes it impossible for liquid water to exist on the Martian surface for any length of time. Therefore, although this desert planet is just half the diameter of Earth, it has the same amount of dry land. Martian surface gravity is only 37% of Earth’s (meaning you could leap nearly three times higher on Mars).\n\nMars is home to the tallest mountain in the solar system. Olympus Mons, a shield volcano, is 21km high and 600km in diameter. It also boasts the longest valley in the solar system, the Valles Marineris system of valleys, named after the Mariner 9 probe that discovered it in 1971. \n\nMars has the largest dust storms in the solar system. They can last for months and cover the entire planet. The seasons are extreme because its elliptical, oval-shaped orbital path around the sun is more elongated than that of most other planets in the solar system.\n\nOn Mars, the Sun appears about half the size as it does on Earth. At the closest point to the Sun, the Martian southern hemisphere leans towards the Sun, causing a short, intensely hot summer, while the northern hemisphere endures a brief, cold winter. At its farthest point from the Sun, the Martian northern hemisphere leans towards the Sun, causing a long, mild summer, while the southern hemisphere endures a lengthy, cold winter. \n\nOnly 16 missions to Mars have been successful. Including orbiters, landers and rovers, there have been 39 missions to Mars, not including flybys or the attempt to return a sample of Phobos.</string>
+
+    <string name="jupiter_title">Jupiter</string>
+    <string name="jupiter_sub_title_1">Data</string>
+    <string name="jupiter_description">Mass: 1.89813×10^18 billion kg (317.83 x Earth)\nEquatorial Diameter: 142,984 km\nPolar Diameter: 133,709 km\nEquatorial Circumference: 439,264 km\nKnown Satellites: 67\nNotable Satellites: Io, Europa, Ganymede, and Callisto\nOrbit Distance: 778,340,821 km (5.20 AU)\nOrbit Period: 4,332.82 Earth days (11.86 Earth years)\nSurface Temperature: -108°C\nFirst Record: 7th or 8th century BC\nRecorded By: Babylonian astronomers</string>
+    <string name="jupiter_sub_title_2">Facts</string>
+    <string name="jupiter_description_2" formatted="false">Jupiter is the fifth planet from the Sun. It is two and a half times more massive than all the other planets in the solar system combined, and it is made primarily of gases. It is, therefore, known as a “gas giant.” Its diameter is 142,984 kilometers, and its mass is 317.83 times that of Earth. \n\nJupiter is named after the king of the Roman gods and has also been called Zeus, after the Greek god of thunder and Marduk, after the Mesopotamian god and patron of the city of Babylon. \n\n\ Jupiter is the third brightest object in the solar system. It is one of five planets that can be seen with the naked eye; the others are Mercury, Venus, Mars and Saturn. \n\nJupiter spins faster than any other planet, taking a little under 10 hours to complete a turn on its axis. This rapid spin makes Jupiter bulge at the equator and flatten at the poles, making the planet about seven percent wider at the equator than at the poles. It orbits 778,340,821 kilometers from the sun and takes more than eleven Earth years to complete its orbit. \n\nJupiter’s most recognizable feature is the Great Red Storm. This is a storm that has been raging for at least 350 years, and it is large enough for two Earths to fit inside of it.\n\nJupiter’s larger moon Ganymede is the largest moon in the solar system, with a diameter of 5,268 kilometers. It is larger than the planet Mercury.\n\nJupiter has two rings thought to be composed of material from its moons where they have been struck by meteorites.</string>
+
+    <string name="saturn_title">Saturn</string>
+    <string name="saturn_sub_title_1">Data</string>
+    <string name="saturn_description">Mass: 5.68319×10^17 billion kg (95.16 x Earth)\nEquatorial Diameter: 120,536 km\nPolar Diameter: 108,728 km\nEquatorial Circumference: 365,882 km\nKnown Satellites: 62\nNotable Satellites: Titan, Rhea and Enceladus\nOrbit Distance: 1,426,666,422 km (9.58 AU)\nOrbit Period: 10,755.70 Earth days (29.45 Earth years)\nSurface Temperature: -139 °C\nFirst Record: 8th century BC\nRecorded By: Assyrians</string>
+    <string name="saturn_sub_title_2">Facts</string>
+    <string name="saturn_description_2" formatted="false">Saturn, the second largest planet in the solar system, is the sixth planet from the Sun and is named after the Roman god of wealth. It is large enough to hold more than 760 Earths and is more massive than any other planet except Jupiter, roughly 95 times Earth\'s mass. However, Saturn has the lowest density of all the planets and is the only one less dense than water. n\n\Saturn orbits the sun every 29.4 Earth years. It turns on its axis once every 10 hours and 34 minutes, giving it the second-shortest day of any of the solar system’s planets. Due to its low density and fast rotation, it is the flattest planet. \n\nSaturn is best known for its fabulous rings that were first discovered by Galileo in 1610. Although the other gas giants in the solar system — Jupiter, Uranus and Neptune — also have rings, those of Saturn are without a doubt the most extraordinary. It also has 150 moons and smaller moonlets.</string>
+
+    <string name="uranus_title">Uranus</string>
+    <string name="uranus_sub_title_1">Data</string>
+    <string name="uranus_description">Mass: 8.68103×10^16 billion kg (14.536 x Earth)\nEquatorial Diameter: 51,118 km\nPolar Diameter: 49,946 km\nEquatorial Circumference: 159,354 km\nKnown Satellites: 27\nNotable Satellites: Oberon, Titania, Miranda, Ariel and Umbriel\nOrbit Distance: 2,870,658,186 km (19.22 AU)\nOrbit Period: 30,687.15 Earth days (84.02 Earth years)\nSurface Temperature: -197 °C\nDiscover Date: March 13th 1781\nDiscovered By: William Herschel</string>
+    <string name="uranus_sub_title_2">Facts</string>
+    <string name="uranus_description_2" formatted="false">Uranus is the seventh planet from the Sun and was the first planet to be discovered with the use of a telescope. William Herschel discovered the planet on the 13th of March 1781. He initially believed it was a comet. Herschel tried to have his discovery named Georgian Sidus after King George III. Instead, Uranus is named after the Greek god of the sky. \n\nUranus’ most unique feature is that its axis is sideways in comparison to other planets; its north and south poles are in line with where other planets have their equators. \n\nThe atmosphere of Uranus is composed mostly of Hydrogen and Helium with a small amount of Methane (H2, He and CH4).\n\nOn the surface of Uranus, gravity would be 89% of that on Earth, however, as a gas planet with a liquid center Uranus does not have definable surface.\n\nThe minimum atmospheric temperature of Uranus is -224 degrees Celsius, making it the coldest planet in the solar system. \n\nUranus’ moons are named after characters created by William Shakespeare and Alaxander Pope. These include Oberon, Titania and Miranda. Uranus has two sets of rings: nine inner rings and two outer rings. The first set of rings was discovered in 1977, and the second set was discovered in 2003 using the Hubble Space Telescope.\n\nThe only spacecraft to visit Uranus is Voyager 2, which passed in 1986 at a distance of 81,500 kilometers.</string>
+
+    <string name="neptune_title">Neptune</string>
+    <string name="neptune_sub_title_1">Data</string>
+    <string name="neptune_description">Mass: 1.0241×10^17 billion kg (17.15x Earth)\nEquatorial Diameter: 49,528 km\nPolar Diameter: 48,682 km\nEquatorial Circumference: 155,600 km\nKnown Satellites: 14\nNotable Satellites: Tritan\nOrbit Distance: 4,498,396,441 km (30.10 AU)\nOrbit Period: 60,190.03 Earth days (164.79 Earth years)\nSurface Temperature: -201 °C\nDiscover Date: September 23rd 1846\nDiscovered By: Urbain Le Verrier and Johann Galle</string>
+    <string name="neptune_sub_title_2">Facts</string>
+    <string name="neptune_description_2" formatted="false">Neptune is the eighth planet from the Sun and the smallest of the gas giants. Neptune was the first planet found by mathematical prediction after unexpected changes in the orbit of Uranus were observed. It is named after the Roman god of the sea. Neptune\'s elliptical, oval-shaped orbit keeps the planet an average distance from the sun of almost 4.5 billion kilometers, about 30 times as far away as Earth. Neptune was not known to ancient people because it is not visible to the naked eye; it was first observed in 1846. \n\nNeptune spins on its axis very rapidly; its equatorial clouds take 18 hours to make one rotation. It takes 164.79 Earth years for Neptune to revolve around the sun.\n\nEven though it is smaller than Uranus, Neptune has a greater mass. Below its heavy atmosphere, Uranus is made of layers of hydrogen, helium, and methane gases. They enclose a layer of water, ammonia and methane ice. The inner core of the planet is made of rock. \n\nDespite its great distance from the sun, which means it gets little sunlight to help warm and drive its atmosphere, Neptune\'s winds can reach up to 1,500 mph. \n\nNeptune has a very thin collection of rings that are likely made up of ice particles mixed with dust grains and possibly coated with a carbon-based substance. The planet has 14 moons. The most interesting moon is Triton, a frozen world that is spewing nitrogen ice and dust particles out from below its surface. It is probably the coldest world in the solar system. \n\nNeptune has only been passed by one spacecraft, Voyager 2 which flew by on the 25th of August 1989. Although smaller in diameter than Uranus, Neptune has a greater mass.</string>
+
+    <string name="pluto_title">Pluto</string>
+    <string name="pluto_image">Image of Pluto</string>
+    <string name="pluto_description">Gravity: 0.658 m/s squared\nDiscovered: February 18th, 1930\nDensity: 2.03 g/cm\ cubed\nCircumference: 4,494 miles (7,232 km)</string>
+    <string name="pluto_description_2" formatted="false">Pluto is the only dwarf planet to once have been considered a major planet. Once thought of as the ninth planet and the one most distant from the sun, Pluto is now seen as one of the largest known members of the Kuiper Belt, a shadowy disk-like zone beyond the orbit of Neptune populated by a trillion or more comets. Pluto was reclassified as a dwarf planet in 2006, a change widely thought of as a demotion that has attracted controversy and debate.\n\nAmerican astronomer Percival Lowell first caught hints of Pluto\'s existence in 1905 from odd deviations he observed in the orbits of Neptune and Uranus, suggesting that another world\'s gravity was tugging at them from beyond. He predicted its location in 1915, but he died without finding it. Its discovery came in 1930 from Clyde Tombaugh at the Lowell Observatory based on predictions from Lowell and other astronomers.\n\nPluto is the only world named by an 11-year-old girl, Venetia Burney of Oxford, England, who suggested to her grandfather that it get its name from the Roman god of the underworld. Her grandfather then passed the name on to Lowell Observatory. The name also honors Percival Lowell, whose initials are the first two letters of Pluto. \n\nIt orbits 5,874,000,000 kilometers from the sun, and it takes 246.04 Earth years for Pluto to complete its orbit. \n\nPluto has five known moons: Charon, Hydra, Nix, Kerberos, and Styx.</string>
+
+    <string name="support_email">andrewmquebe@gmail.com</string>
+    <string name="send_feedback">Send using...</string>
+    <string name="title_activity_tvsun">TVSunActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity_nav_drawer">MainActivityNavDrawer</string>
+
+    <string name="title_section1">Gallery</string>
+    <string name="title_section2">Make a Donation</string>
+    <string name="title_section3">Send Feedback</string>
+    <string name="title_section4">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="browse_title"><![CDATA[Planets]]></string>
+    <string name="related_movies">More</string>
+    <string name="vertical_grid_title"><![CDATA[Vertical Video Grid]]></string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="init_text">00:00</string>
+    <string name="play_pause_description">Play Pause Button</string>
+    <string name="loading">Loading…</string>
+    <string name="no_video_found">No video was found</string>
+    <string name="about_app">About DemoCast Player</string>
+    <string name="version">Version: %1$s</string>
+    <string name="popular_header">Popular Videos</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="grid_view">Grid View</string>
+    <string name="send_feeback">Send Feedback</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch Trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+    <string name="should_start">shouldStart</string>
+    <string name="start_position">startPosition</string>
+    <string name="search_results">Search Results</string>
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_unaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="oops">Oops</string>
+    <string name="about">About</string>
+    <string name="tvFeedback">Send\nFeedback</string>
+    <string name="settings">Settings</string>
+    <string name="action_example">ExampleAction</string>
+    <string name="button_source">Source</string>
+    <string name="title_activity_planet_long_description">PlanetLongDescription</string>
+    <string name="content_description">Nav Drawer Icon</string>
+    <string name="title_activity_contributers">Contributors</string>
+    <string name="title_activity_licenses">Licenses</string>
+    <string name="app_intro">App Intro</string>
+    <string name="alorna_name">Bernat Borrás Paronella</string>
+    <string name="alorna_summary">Helped with colored grid items on object lists using Android.Palette.</string>
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="LOADING">Loading...</string>
+</resources>
